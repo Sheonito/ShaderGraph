@@ -112,7 +112,8 @@ Material:
     - _SrcBlendAlpha: 1
     - _Surface: 0
     - _UseRatio: 0
-    - _WipeValue: 0
+    - _UseScreenRatio: 1
+    - _WipeValue: 1
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
